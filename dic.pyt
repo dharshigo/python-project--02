@@ -1,0 +1,1 @@
+x={'name':'kamal','age':34,'name':'amal','age':23}
